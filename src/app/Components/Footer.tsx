@@ -1,9 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-// import twitter from '/public/twitter.png';
-// import googlePay from '/public/google-play.png';
-// import appStore from '/public/app-store.png';
 
 const Footer = () => {
   return (
