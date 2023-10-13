@@ -15,7 +15,6 @@ const Footer = () => {
                                     <li>Address: <Link className="text-decoration-none" href='#' target='_blank'>7th Floor, The Ruby, Senapati Bapat Marg, <br/>Dadar West, Mumbai City, Maharashtra, 400028</Link></li>
                                     <li>Contact: <Link href='tel:+919930041883' className="text-decoration-none">+91-9930041883</Link></li>
                                     <li>Email: <Link className="text-decoration-none" href="#">meghana.more@finlearnacademy.com</Link></li>
-                                    
                                 </ul>
                             </div>
 
